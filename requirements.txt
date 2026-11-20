@@ -1,0 +1,6 @@
+pypdf
+pdfplumber
+pypdfium2
+pytesseract
+pillow
+anthropic

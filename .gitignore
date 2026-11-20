@@ -1,2 +1,10 @@
+# Documentos y datos: nunca subir a GitHub
 *.pdf
+ekatena.db
+entrada/
+censurados/
+
+# Python
 .venv/
+__pycache__/
+.ipynb_checkpoints/
